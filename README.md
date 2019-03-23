@@ -2,4 +2,4 @@
 
 A landing page for for the Avengers movie coming out soon
 
-![Bloc Jam Screenshot](BlocJams.png)
+![Movie Landing Page Screen Shot](movie-landing-page.png)
